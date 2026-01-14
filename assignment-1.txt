@@ -1,0 +1,6 @@
+git config --global user.name Mohammed Zain
+git config --global user.email zainninja7@gmail.com
+git init 
+git add a1.c
+git status
+git commit -m "a1.c commited"
